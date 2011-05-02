@@ -1,0 +1,13 @@
+# CONF 
+# vim: set ts=2 sw=2 sts=2 et si ai syntax=sh: 
+
+# sox-monitor.rc 
+# =
+# 
+# Hewlett-Packard Company | EBS
+# 
+
+APHOME=${HOME}/USBPersonal/sox-monitor.git
+
+
+

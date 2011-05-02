@@ -1,0 +1,39 @@
+SOX Monitor
+Script para monitoreo SOX de aplicaciones
+=
+
+Developed by
+   Carlos Patlan <patlan(at)hp.com>
+   Felix Santillan <feliz.santillam(at)hp.com>
+   Andres Aquino <aquino(at)hp.com>
+
+Source Code
+   [GitHub]       http://andresaquino.github.com/(pending)
+   [GoggleCode]   http://(pending).googlecode.com/svn/trunk/
+   [Bugtracker]   http://github.com/andresaquino/(pending)/issues
+
+Proposito
+   Ejecutar este script para verificar la firma de los componentes desplegados en cada WAS (Web
+   Application Server), generar un reporte para que pueda ser exportado a un doc en excel para 
+   cumplir con los requerimientos de SOX
+
+Esquema
+   .
+   ├── bin                             # aplicacion
+   │   └── myApplication.sh
+   ├── conf                            # configuracion (log4j,rc)
+   │   ├── log4j.properties
+   │   ├── private.key
+   │   └── setEnvironment.rc
+   ├── logs                            # log de ejecucion
+   │   └── *.log
+   ├── manual                          # manuales
+   │   ├── myApplication.1
+   │   └── myApplication.pod
+   ├── LICENSE
+   ├── README
+   └── ROADMAP
+
+
+
+# vim: set ts=3 et sw=3 sts=3 si ai tw=100 lbr syntax=txt:

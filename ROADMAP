@@ -2,6 +2,21 @@ SOX Monitor
 =
 
 Roadmap
+   > Obtener datos de un archivo, como se muestra el siguiente dummy
+      fstat.pl
+      $> fstat test.sh
+      [test.sh]
+         Path: /opt/batch
+         Name: test.sh
+         Size: 559
+         User: batch     | 818
+        Group: users     | 20
+        Perms: 0600      | -rw-------
+        aTime: 20110335
+        mTime: 20110335
+          md5: 8f80590195d8b60897d469a9d3b3ff1f
+
+
 
 
 # vim: set ts=3 et sw=3 sts=3 si ai tw=80 lbr:

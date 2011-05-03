@@ -4,7 +4,7 @@
 # fstat.pl - when you need get information of a file
 # =
 # 
-# Andres Aquino <aquino@hp.com>
+# Andres Aquino <aquino(at)hp.com>
 # Hewlett-Packard Company | EBS
 # 
 use File::stat;

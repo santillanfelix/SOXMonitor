@@ -4,7 +4,7 @@
 # sox-monitor.sh 
 # =
 # 
-# Andres Aquino <aquino@hp.com>
+# Andres Aquino <aquino(at)hp.com>
 # Hewlett-Packard Company | EBS
 # 
 
